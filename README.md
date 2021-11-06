@@ -1,3 +1,5 @@
+[![Render Bookdown and Coursera](https://github.com/jhudsl/DaSL_Course_Template_Bookdown/actions/workflows/render-bookdown.yml/badge.svg)](https://github.com/jhudsl/DaSL_Course_Template_Bookdown/actions/workflows/render-bookdown.yml)
+
 # Getting Started on AnVIL
 
 This book was created from [this github template](https://github.com/jhudsl/DaSL_Course_Template_Bookdown).
